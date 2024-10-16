@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+.row img{
+    width: 100%;
+    
+}
+
+
+.container{
+    text-align: center;
+}
+
+.foot{
+    background-color: rgb(44, 62, 80);
+}
+
+.row .par{
+    color: rgb(0, 0, 0);
+    padding: 30px 100px;
+    transition: 0.4s;
+}
+
+.row .par i{
+    font-size: 30px;
+    color: black;
+    transition: 0.4s;
+}
+
+.row .par i:hover{
+    color: white;
+}
+
+.row .par:hover{
+    color: white;
+}
